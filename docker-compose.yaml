@@ -1,5 +1,3 @@
-version: "3.3"
-
 services:
 
   muximux:
@@ -13,6 +11,5 @@ services:
       - ./muximux/data/:/config
     ports:
       - "8200:80"
-    restart: unless-stopped
+    restart: unless-stopped   
 
-    
