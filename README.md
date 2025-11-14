@@ -1,6 +1,3 @@
-# muximux
-Muximux - Dashboard Apps - Docker compose
+# Muximux
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
